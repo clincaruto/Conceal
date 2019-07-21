@@ -1,0 +1,56 @@
+/*hr{
+	width:420px;
+	text-align:center; 
+	background-color:white;
+}*/
+
+html, body {
+    height: 100%;
+}
+
+
+body{
+	 background: #111111;
+    font-family: Poppins, serif;
+    font-size: 1.7rem;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.765;
+    color: #757575;
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+	/*border:1px solid green;*/
+	min-height:100px;
+}
+
+#banner{
+ height:;
+}
+
+
+/*#inc{
+ height:500px;
+ width:1200px;
+ /*margin-right:200px; */
+
+
+
+#background{
+	border:1px solid black;
+	height:100px;
+	width:500px;
+	position:absolute;
+	top:255px;
+	right:100%;
+	color:white;
+	background-color:rgba(106,127,219,0.6);
+	text-transform: capitalize;
+}
+
+h2{
+	text-align: center;
+}

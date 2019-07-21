@@ -1,0 +1,59 @@
+body{
+	color: tomato;
+  
+}
+
+div{
+	/*border:1px solid red;
+	/*min-height: 100px;*/
+}
+
+#banner{
+	background-color: yellow;
+}
+
+
+h2{
+	/*text-align: center; */
+}
+
+h4{
+	text-transform: capitalize;
+
+}
+
+img{
+	height: 500px;
+
+}
+
+.btn{
+	background-color:#fb5c02;
+}
+
+
+#ban{
+	height: 100px;
+
+}
+
+
+
+.chuks{
+	background-color:rgba(0,1,19,0.85);
+    height: 200px;
+}
+
+
+
+
+
+
+.firstcard{
+   background-color:#181c6a;
+   color: white;
+}
+
+
+
+
